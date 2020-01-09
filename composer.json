@@ -67,12 +67,13 @@
       "dreamfactory/df-system": "~0.3.0",
       "dreamfactory/df-user": "~0.15.0",
       "fideloper/proxy": "^4.0",
+      "jenssegers/mongodb": "~3.6.1",
       "laravel/framework": "^6.0",
       "laravel/helpers": "^1.1",
       "laravel/tinker": "^1.0",
+      "spatie/laravel-http-logger": "^1.3.1",
       "predis/predis": "~1.0",
-      "php": "^7.2",
-      "spatie/laravel-http-logger": "^1.1"
+      "php": "^7.2"
   },
   "require-dev": {
       "barryvdh/laravel-ide-helper": "~2.1",
